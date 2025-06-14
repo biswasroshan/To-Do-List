@@ -1,4 +1,4 @@
-# Todo Application
+# To-do Application
 
 A modern, responsive Todo application built with React and TypeScript.
 
